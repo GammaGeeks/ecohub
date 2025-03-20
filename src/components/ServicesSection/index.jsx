@@ -16,7 +16,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-clinic-medical"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Setup of Health & Medical Facilities</h3>
               </a>
               <p>Specialized consulting for the establishment of clinics, pharmacies, hospitals, polyclinics, and more.</p>
@@ -28,7 +28,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-briefcase"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Job & Business Contracts</h3>
               </a>
               <p>We assist with creating and negotiating business contracts for healthcare services and professionals.</p>
@@ -40,7 +40,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-chart-line"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Investment Proposals & Follow-up</h3>
               </a>
               <p>Assistance in preparing and following up on investment proposals for healthcare businesses.</p>
@@ -52,7 +52,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-cogs"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Policies & Strategic Planning</h3>
               </a>
               <p>Development of policies, action plans, and strategic planning for healthcare entities.</p>
@@ -64,7 +64,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-user-md"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Health Entity Leadership & Management</h3>
               </a>
               <p>Leadership and management services for both short-term and long-term healthcare projects.</p>
@@ -76,7 +76,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-shield-alt"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Medical Insurance Assistance</h3>
               </a>
               <p>Guidance for medical insurance applications, follow-ups, and ensuring comprehensive coverage.</p>
@@ -88,7 +88,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-stethoscope"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Medical & Health Advice</h3>
               </a>
               <p>Providing expert health advice based on lab results and medical conditions to optimize treatment plans.</p>
@@ -100,7 +100,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-user-check"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Health Expert Orientation</h3>
               </a>
               <p>Helping patients find the best experts for their health needs to ensure top-quality treatments.</p>
@@ -112,7 +112,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-balance-scale"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Patient Rights & Legal Advocacy</h3>
               </a>
               <p>Providing advocacy for patient rights and offering legal assistance in case of medical negligence.</p>
@@ -124,7 +124,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-file-medical"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Medical Report Analysis</h3>
               </a>
               <p>Analysis and interpretation of medical reports to ensure accurate treatment decisions.</p>
@@ -136,7 +136,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-clipboard"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Healthcare Awareness & Knowledge</h3>
               </a>
               <p>Increasing awareness and knowledge about healthcare and medical reports for better decision-making.</p>
@@ -148,7 +148,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-sync-alt"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Business Revitalization</h3>
               </a>
               <p>Reviving failed healthcare businesses with expert consulting and strategic guidance.</p>
@@ -160,7 +160,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-id-card"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Official Document Assistance</h3>
               </a>
               <p>Helping customers obtain necessary official documents for healthcare operations.</p>
@@ -172,7 +172,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-cogs"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Medical Equipment Supply</h3>
               </a>
               <p>Supplying high-quality medical and health equipment to meet the needs of healthcare businesses.</p>
@@ -184,7 +184,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-file-invoice"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Invoice Recovery & Follow-up</h3>
               </a>
               <p>Helping businesses recover outstanding invoices and providing follow-up services for payments.</p>
@@ -196,7 +196,7 @@ function ServicesSection() {
               <div className="icon">
                 <i className="fas fa-hand-holding-medical"></i>
               </div>
-              <a href="#" className="stretched-link">
+              <a className="stretched-link">
                 <h3>Talent Therapy & Counseling</h3>
               </a>
               <p>Offering medical, business, and therapy counseling to improve well-being and performance.</p>

@@ -1,5 +1,6 @@
 import React from "react";
 import useNavigation from "../../hooks/useNavigation";
+import logo from '../../assets/logo.png'
 
 function Header() {
   const { 
@@ -35,7 +36,7 @@ function Header() {
       <div className="branding d-flex align-items-center">
         <div className="container position-relative d-flex align-items-center justify-content-between">
           <a href="/" className="logo d-flex align-items-center me-auto">
-            <h1 className="sitename">EcoHub</h1>
+            <img src={logo} alt="EcoHub Logo" className="logo-img" />
           </a>
           <nav id="navmenu" className={`navmenu ${mobileNavActive ? 'mobile-nav-active' : ''}`}>
             <ul>

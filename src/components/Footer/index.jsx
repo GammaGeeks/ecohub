@@ -1,4 +1,5 @@
 import React from 'react';
+import logo from '../../assets/logo.png';
 
 const Footer = () => {
   return (
@@ -6,8 +7,8 @@ const Footer = () => {
       <div className="container footer-top">
         <div className="row gy-4">
           <div className="col-lg-6 col-md-6 footer-about">
-            <a href="index.html" className="logo d-flex align-items-center">
-              <span className="sitename">EcoHub</span>
+            <a href="index.html" className="logo2 d-flex align-items-center">
+              <img src={logo} style={{width: '150px', height: '100%'}} alt="EcoHub Logo" className="logo-img" />
             </a>
             <div className="footer-contact pt-3">
               <p>KG 33 Ave</p>

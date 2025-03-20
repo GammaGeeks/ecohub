@@ -126,10 +126,25 @@ const Appointment = () => {
 
                 <div className="col-md-4 form-group mt-3">
                   <Field as="select" name="department" className="form-select">
-                    <option value="">Select Department</option>
-                    <option value="Department 1">Department 1</option>
-                    <option value="Department 2">Department 2</option>
-                    <option value="Department 3">Department 3</option>
+                    <option value="">Select Services</option>
+                    <option value="health_clinic_setup">Set up of health & medical clinic, pharmacy, hospital, polyclinic, and related</option>
+                    <option value="job_contracts">Job / business contracts</option>
+                    <option value="investment_proposals">Investment proposals and follow-up</option>
+                    <option value="policy_strategy">Establishing & providing policies, action, and strategic plans</option>
+                    <option value="health_management">Short- and long-term health entity leadership and management</option>
+                    <option value="insurance_assistance">Assistance for health & medical insurance application and follow-up</option>
+                    <option value="medical_advice">Medical & health advice based on lab results and medical condition</option>
+                    <option value="patient_orientation">Patient health orientation to excellent experts for better treatments</option>
+                    <option value="patient_rights">Patient rights assistance and legal advocacy</option>
+                    <option value="medical_negligence">Patient follow-up on any occurred medical negligence</option>
+                    <option value="medical_report_analysis">Medical report analysis, interpretation, and use</option>
+                    <option value="health_awareness">Increasing knowledge and awareness of health and medical reports</option>
+                    <option value="business_growth">Upgrading failed businesses</option>
+                    <option value="official_documents">Assisting customers in obtaining official documents</option>
+                    <option value="medical_supplies">Excellent supply of medical and health equipment</option>
+                    <option value="invoice_recovery">Invoice recovery and follow-up</option>
+                    <option value="talent_therapy">Squeezing talent therapy</option>
+                    <option value="medical_therapy">Medical therapy, counseling, and business therapy</option>
                   </Field>
                   <ErrorMessage name="department" component="div" className="error-message" style={{color: 'red'}} />
                 </div>

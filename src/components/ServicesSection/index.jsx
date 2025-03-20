@@ -35,7 +35,7 @@ function ServicesSection() {
             </div>
           </div>
 
-          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div className="service-item position-relative">
               <div className="icon">
                 <i className="fas fa-chart-line"></i>
@@ -47,7 +47,7 @@ function ServicesSection() {
             </div>
           </div>
 
-          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div className="service-item position-relative">
               <div className="icon">
                 <i className="fas fa-cogs"></i>
@@ -59,7 +59,7 @@ function ServicesSection() {
             </div>
           </div>
 
-          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div className="service-item position-relative">
               <div className="icon">
                 <i className="fas fa-user-md"></i>
@@ -71,7 +71,7 @@ function ServicesSection() {
             </div>
           </div>
 
-          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div className="service-item position-relative">
               <div className="icon">
                 <i className="fas fa-shield-alt"></i>
@@ -83,7 +83,7 @@ function ServicesSection() {
             </div>
           </div>
 
-          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="700">
+          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div className="service-item position-relative">
               <div className="icon">
                 <i className="fas fa-stethoscope"></i>
@@ -95,7 +95,7 @@ function ServicesSection() {
             </div>
           </div>
 
-          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="800">
+          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div className="service-item position-relative">
               <div className="icon">
                 <i className="fas fa-user-check"></i>
@@ -107,7 +107,7 @@ function ServicesSection() {
             </div>
           </div>
 
-          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="900">
+          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div className="service-item position-relative">
               <div className="icon">
                 <i className="fas fa-balance-scale"></i>
@@ -119,7 +119,7 @@ function ServicesSection() {
             </div>
           </div>
 
-          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="1000">
+          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div className="service-item position-relative">
               <div className="icon">
                 <i className="fas fa-file-medical"></i>
@@ -131,7 +131,7 @@ function ServicesSection() {
             </div>
           </div>
 
-          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="1100">
+          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div className="service-item position-relative">
               <div className="icon">
                 <i className="fas fa-clipboard"></i>
@@ -143,7 +143,7 @@ function ServicesSection() {
             </div>
           </div>
 
-          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="1200">
+          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div className="service-item position-relative">
               <div className="icon">
                 <i className="fas fa-sync-alt"></i>
@@ -155,7 +155,7 @@ function ServicesSection() {
             </div>
           </div>
 
-          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="1300">
+          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div className="service-item position-relative">
               <div className="icon">
                 <i className="fas fa-id-card"></i>
@@ -167,7 +167,7 @@ function ServicesSection() {
             </div>
           </div>
 
-          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="1400">
+          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div className="service-item position-relative">
               <div className="icon">
                 <i className="fas fa-cogs"></i>
@@ -179,7 +179,7 @@ function ServicesSection() {
             </div>
           </div>
 
-          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="1500">
+          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div className="service-item position-relative">
               <div className="icon">
                 <i className="fas fa-file-invoice"></i>
@@ -191,7 +191,7 @@ function ServicesSection() {
             </div>
           </div>
 
-          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="1600">
+          <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
             <div className="service-item position-relative">
               <div className="icon">
                 <i className="fas fa-hand-holding-medical"></i>

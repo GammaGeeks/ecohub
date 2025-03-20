@@ -45,7 +45,7 @@ function App() {
   return (
     <>
       {/* Preloader - will be removed by the useEffect above */}
-      <div id="preloader"></div>
+      {/* <div id="preloader"></div> */}
       
       <Header />
       

@@ -36,7 +36,7 @@ const DoctorsSection = () => {
   return (
     <section id="doctors" className="doctors section">
       <div className="container section-title" data-aos="fade-up">
-        <h2>Our Team</h2>
+        <h2>Meet Our Medical Team</h2>
         <p>Meet our team of highly skilled and dedicated medical professionals who are committed to providing the best care possible.</p>
       </div>
       <div className="container">

@@ -14,32 +14,30 @@ const VisionSection = () => {
           <div className="col-lg-6 content" data-aos="fade-up" data-aos-delay="100">
             <h3>Our Vision</h3>
             <p>
-              Dolor iure expedita id fuga asperiores qui sunt consequatur minima. Quidem voluptas deleniti. Sit quia
-              molestiae quia quas qui magnam itaque veritatis dolores. Corrupti totam ut eius incidunt reiciendis veritatis
-              asperiores placeat.
+              ALTHOUGH THE ELNASA consulting hub / ECOHAB ltd is highly competitive , we believe that there is a place for high quality innovative ,attractive durable ,affordable consulting hub services .
             </p>
             <ul>
               <li>
                 <i className="fa-solid fa-vial-circle-check"></i>
                 <div>
-                  <h5>Ullamco laboris nisi ut aliquip consequat</h5>
-                  <p>Magni facilis facilis repellendus cum excepturi quaerat praesentium libre trade</p>
+                  <h5>Mission</h5>
+                  <p>To built , connect and sell high quality consulting hub successful results and oriented services ,that will be cherished and handed down  from country wide business to  the world ide generation</p>
                 </div>
               </li>
               <li>
                 <i className="fa-solid fa-pump-medical"></i>
                 <div>
-                  <h5>Magnam soluta odio exercitationem reprehenderi</h5>
-                  <p>Quo totam dolorum at pariatur aut distinctio dolorum laudantium illo direna pasata redi</p>
+                  <h5>Goals</h5>
+                  <p>To build and market consulting hub results  and success that will entertain ,encourage ,enhance the businessman to succeed and stand in the market place here and the world wide</p>
                 </div>
               </li>
-              <li>
+              {/* <li>
                 <i className="fa-solid fa-heart-circle-xmark"></i>
                 <div>
                   <h5>Voluptatem et qui exercitationem</h5>
                   <p>Et velit et eos maiores est tempora et quos dolorem autem tempora incidunt maxime veniam</p>
                 </div>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>

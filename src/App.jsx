@@ -16,6 +16,7 @@ import StatsSection from "./components/StatsSection";
 import Appointment from "./components/Appointment";
 import FAQSection from "./components/FAQSection";
 import { Bounce, ToastContainer } from "react-toastify";
+import DoctorsSection from "./components/DoctorsSection";
 
 function App() {
   // Initialize AOS
@@ -54,6 +55,7 @@ function App() {
         <VisionSection />
         <StatsSection />
         <ServicesSection />
+        <DoctorsSection />
         <Appointment />
         <FAQSection />
         {/* <DepartmentsSection />

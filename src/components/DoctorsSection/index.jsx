@@ -1,4 +1,4 @@
-import doctor5 from '../../assets/img/doctors/doctor-5.jpg';
+import doctors5 from '../../assets/img/doctors/doctors-5.jpg';
 
 const doctors = [
   {
@@ -6,7 +6,7 @@ const doctors = [
     role: "Directing Manager",
     description: "",
     // description: "Dr. Karamutse Innocent is a distinguished medical professional renowned for his expertise and dedication to healthcare. He has made significant contributions to medical research and patient care.",
-    image: doctor5,
+    image: doctors5,
     delay: 100,
     },
   // {

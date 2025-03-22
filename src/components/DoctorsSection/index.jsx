@@ -1,4 +1,5 @@
 import doctors5 from '../../assets/img/doctors/doctors-5.jpg';
+import doctors6 from '../../assets/img/doctors/doctors-6.jpg';
 
 const doctors = [
   {
@@ -8,7 +9,15 @@ const doctors = [
     // description: "Dr. Karamutse Innocent is a distinguished medical professional renowned for his expertise and dedication to healthcare. He has made significant contributions to medical research and patient care.",
     image: doctors5,
     delay: 100,
-    },
+  },
+  {
+    name: "Dr Edson Ndamyuwera",
+    role: "Deputy Directing Manager, Strategist and Legal Medicine Officer",
+    description: "",
+    // description: "Dr. Karamutse Innocent is a distinguished medical professional renowned for his expertise and dedication to healthcare. He has made significant contributions to medical research and patient care.",
+    image: doctors6,
+    delay: 100,
+  },
   // {
   //   name: "Sarah Jhonson",
   //   role: "Anesthesiologist",
